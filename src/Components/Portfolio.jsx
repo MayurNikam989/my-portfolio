@@ -42,7 +42,6 @@ const projectList = [
       "The app provides users with the ability to create rooms, join existing rooms, and engage in real-time conversations. It is built using ReactJS, Firebase, Firebase Authentication, JavaScript, and HTML for templates and models. ",
     url: "https://github.com/MayurNikam989/ChatApp",
   },
-    
 ];
 
 const Portfolio = () => {

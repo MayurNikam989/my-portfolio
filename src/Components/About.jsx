@@ -39,7 +39,7 @@ const skillsList = [
   "Firebase",
   "GitHub",
   "HTML & CSS",
-  "Bootstrap"
+  "Bootstrap",
 ];
 
 /**
