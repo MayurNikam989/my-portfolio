@@ -24,19 +24,22 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am currently 3rd year Engineering Student.Hardworking and reliable with strong ability in Programming using Java & Python. Proficient with ReactJS & Database tools. Highly organized, proactive and punctual with team oriented mentality. Seeking opportunity to leverage technical expertise and looking to contribute to projects in computer engineering. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "ReactJS",
+  "React Native",
+  "Java",
+  "Python",
+  "Android Studio",
+  "Firebase",
+  "GitHub",
+  "HTML & CSS",
+  "Bootstrap"
 ];
 
 /**
